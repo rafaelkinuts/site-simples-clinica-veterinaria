@@ -11,5 +11,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Acesse o projeto através do link :
-https://rafaelkinuts.github.io/mini-pagina-com-links/
+Acesse o projeto : <a href="https://rafaelkinuts.github.io/site-simples-clinica-veterinaria" target="_blank">clicando aqui!</a>
